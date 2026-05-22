@@ -1,0 +1,6 @@
+{
+  "name": "Beauty Visualizer Pro",
+  "description": "AI-powered beauty visualization tool for high-fidelity aging and skin concern simulation with original resolution matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
